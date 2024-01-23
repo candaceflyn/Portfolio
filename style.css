@@ -1,0 +1,25 @@
+*{
+    background-color: bisque;
+}
+h1{
+    color: rgb(41, 180, 180);
+}
+#s1,#s2,#s3{
+    color: rgb(149, 111, 185);
+    text-decoration: none;
+}
+#para1{
+    color:rgb(52, 18, 18)
+}
+article{
+    color: khaki;
+}
+aside{
+    color:antiquewhite;
+}
+main{
+    color:burlywood;
+    section{
+        color: chocolate;
+    }
+}
